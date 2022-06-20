@@ -10,8 +10,8 @@
 5. HTML / CSS / JavaScript
 
 ## My preferred OS 📱
-1. MacOS
-2. IOS
+1. macOS
+2. iOS
 3. Android
 4. Windows
 5. Linux
