@@ -15,7 +15,7 @@ struct Developer: Codable, Hashable {
     let location = "🇨🇭 Switzerland"
     let passions = ["💻 Coding", "🎥 Video Creation", "🚁 Drone Operator", "🏡 Home automation"]
     let teamCat:Bool = true
-    let hobbies = ["🎮 Gaming", "🏔️ Hiking", "🎌 Japanese Culture", "🖌️ Model Making"]
+    let hobbies = ["🎮 Gaming", "🏔️ Hiking", "⛩️ Japanese Culture", "🖌️ Model Making"]
 }
 ```
 
